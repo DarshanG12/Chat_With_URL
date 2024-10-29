@@ -7,11 +7,17 @@ This API allows users to interact with a chatbot that answers questions based on
 
 To use the API, follow these steps:
 
-1. Clone this repository:
+1. Clone this repository: 
 
 2. Install the required dependencies:
+```
+pip install -r requirements.txt
+```
 
-3. Run the Flask application:
+4. Run the Flask application:
+```
+python app.py
+```
 
 
 The API will be accessible at `http://localhost:5000/`.
